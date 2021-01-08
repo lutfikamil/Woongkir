@@ -58,7 +58,7 @@ class Woongkir_Account_Basic extends Woongkir_Account {
 	 *
 	 * @var string
 	 */
-	public $api_url = 'http://api.rajaongkir.com/basic';
+	public $api_url = 'https://api.rajaongkir.com/basic';
 
 	/**
 	 * Account features
